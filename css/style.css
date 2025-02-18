@@ -10198,7 +10198,7 @@ h5 + .list-popular-product {
 }
 
 .cta-box-wrap + .link-classic span:before {
-	background-color: #ffffff;
+	background-color: black;
 }
 
 .cta-box-wrap + .link-classic span:after {
